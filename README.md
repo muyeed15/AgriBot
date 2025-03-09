@@ -21,7 +21,7 @@ AgriBot is a voice-activated assistant designed to provide precise agricultural 
 
 ## Installation
 
-Ensure Python 3.8+ is installed, then install dependencies:
+Ensure Python 3.11+ is installed, then install dependencies:
 
 ```sh
 pip install speech_recognition gtts googletrans vlc pynput lmstudio
